@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "type": "headphone",
+        "img": "https://m.media-amazon.com/images/I/31Onrc6gLYL._SX300_SY300_QL70_FMwebp_.jpg",
+        "no": "55",
+        "description": "boAt BassHeads 100 in-Ear Wired Headphones with Mic (Black)",
+        "price": 329.00
+    },
+    {
+        "id": 2,
+        "type": "wristwatch",
+        "img": "https://m.media-amazon.com/images/I/31NyK8A74VL._SY300_SX300_QL70_FMwebp_.jpg",
+        "no": "02",
+        "description": "Smartwatch with Fitness Tracker and Heart Rate Monitor (Silver)",
+        "price": 1499.00
+    },
+    {
+        "id": 3,
+        "type": "Electronics",
+        "img": "https://m.media-amazon.com/images/I/41kvOAo9rQL._SX300_SY300_QL70_FMwebp_.jpg",
+        "no": "03",
+        "description": "USB-C Data Cable 1.5m Fast Charging (Black)",
+        "price": 149.00
+    },
+    {
+        "id": 4,
+        "type": "headphone",
+        "img": "https://m.media-amazon.com/images/I/31j5zmbapBL._SX300_SY300_QL70_FMwebp_.jpg",
+        "no": "04",
+        "description": "Bluetooth Wireless Earbuds with Charging Case (Blue)",
+        "price": 699.00
+    },
+    {
+        "id": 5,
+        "type": "Electronics",
+        "img": "https://m.media-amazon.com/images/I/51yulnXQYmL._SY300_SX300_QL70_FMwebp_.jpg",
+        "no": "05",
+        "description": "4K Ultra HD Action Camera with Waterproof Case",
+        "price": 28899.00
+    },
+    {
+        "id": 6,
+        "type": "headphone",
+        "img": "https://m.media-amazon.com/images/I/81r4-kfrAvL._AC_UL480_FMwebp_QL65_.jpg",
+        "no": "06",
+        "description": "Noise-Cancelling Over-Ear Headphones (Gray)",
+        "price": 999.00
+    },
+    {
+        "id": 7,
+        "type": "Electronics",
+        "img": "https://m.media-amazon.com/images/I/41M6Wc+yUVL._SY300_SX300_.jpg",
+        "no": "07",
+        "description": "Portable Power Bank 10000mAh (Red)",
+        "price": 1349.00
+    },
+    {
+        "id": 8,
+        "type": "headphone",
+        "img": "https://m.media-amazon.com/images/I/31j5zmbapBL._SX300_SY300_QL70_FMwebp_.jpg",
+        "no": "08",
+        "description": "Noise-Cancelling Over-Ear Headphones (Gray)",
+        "price": 1299.00
+    },
+    {
+        "id": 9,
+        "type": "Electronics",
+        "img": "https://m.media-amazon.com/images/I/413JS6AWaEL._SY445_SX342_QL70_FMwebp_.jpg",
+        "no": "09",
+        "description": "Smart Home Assistant with Voice Control (Black)",
+        "price": 1999.00
+    },
+    {
+        "id": 10,
+        "type": "Electronics",
+        "img": "https://m.media-amazon.com/images/I/41c6d7UCyQL._SX300_SY300_QL70_FMwebp_.jpg",
+        "no": "010",
+        "description": "High-Speed HDMI Cable 2m (Gold)",
+        "price": 179.00
+    }
+    
+    
+]
